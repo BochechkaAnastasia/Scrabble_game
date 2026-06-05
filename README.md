@@ -6,7 +6,7 @@
 
 ## Скриншоты
 
-![Scrabble Game](screenshot.png)
+![Scrabble Game](gameboard.png)
 
 ## Функциональность
 
